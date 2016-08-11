@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: opensegments
+Version: 0.0.1
+Summary: A module for generating geodemographic segments for census arround the world
+Home-page: http://github.com/opensegments/opensegments
+Author: Stuart Lynn
+Author-email: stuart@carto.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,9 @@
+README.rst
+setup.py
+opensegments/__init__.py
+opensegments.egg-info/PKG-INFO
+opensegments.egg-info/SOURCES.txt
+opensegments.egg-info/dependency_links.txt
+opensegments.egg-info/not-zip-safe
+opensegments.egg-info/pbr.json
+opensegments.egg-info/top_level.txt
